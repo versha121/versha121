@@ -1,4 +1,4 @@
- Hi, I’m @versha121
+ Hi, I’m <u>VERSHA SINGH</u>.
 - 👀 I’m interested in learning different <b>programming</b> languages.
 - 🌱 I’m currently learning <u>SQL</u>.
 - 📫 How to reach me : <b>singh.versha121@gmail.com</b>.
