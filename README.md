@@ -1,9 +1,4 @@
  Hi, I’m <u>VERSHA SINGH</u>.
-- 👀 I’m interested in learning different <b>programming</b> languages.
-- 🌱 I’m currently learning <u>SQL</u>.
-- 📫 How to reach me : <b>singh.versha121@gmail.com</b>.
-
-<!---
-versha121/versha121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m an IT professional who's looking forward to work with IT companies and give my career a hike.
+- 🌱 I have learned Python , Django , SQL , HTML , CSS , JS and a few more other languages
+  
