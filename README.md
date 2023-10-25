@@ -1,4 +1,4 @@
- Hi, I’m <u>VERSHA SINGH</u>.
+<pre> Hi, I’m <u>VERSHA SINGH</u>.
 👀 IT professional, looking forward to work with IT companies and give my career a hike.
 ◻️ Front-end Development:
     Proficient in HTML, CSS, and JavaScript
@@ -17,10 +17,11 @@ Expertise in MySQL
 - Thrives in collaborative environments
 - Enthusiastic about contributing and excelling in the IT sector
 
+ </pre>
 
 
 
 
-Regenerate
+
 
   
