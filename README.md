@@ -1,4 +1,4 @@
-<pre> Hi, I’m <u>VERSHA SINGH</u>.
+<pre> 👋 Hi, I’m <b>VERSHA SINGH</b>.
 👀 IT professional, looking forward to work with IT companies and give my career a hike.
 ◻️ Front-end Development:
     Proficient in HTML, CSS, and JavaScript
